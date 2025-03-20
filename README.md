@@ -1,4 +1,29 @@
 ## Hi there 👋
+#  I'm viswas! 
+
+### 💻 About Me
+- 🔭 I’m currently working on **[Your Project Name]**
+- 🌱 I’m learning **[Technology/Skill]**
+- 💬 Ask me about **[Topics you are good at]**
+- 📫 How to reach me: **[Your Email/LinkedIn]**
+- 🚀 Portfolio: **[Your Portfolio Website (if available)]**
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/yourusername)
 
 <!--
 **viswas6/viswas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
